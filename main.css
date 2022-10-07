@@ -141,7 +141,7 @@ input{
     margin-top: 10px;
     margin-bottom: 10px;
 }
-::placeholder{
+placeholder{
     font-size: 16px;
     color: #007d7b;
 }
@@ -155,6 +155,7 @@ input{
     border-radius:10px;
 }
 footer{
+    text-align: center;
     font-size: 16px;
     color: #ffffff;
     margin-bottom: 20px;
